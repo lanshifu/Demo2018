@@ -1,0 +1,24 @@
+<resources>
+    <style name="demo_Item">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="demo_Item.Layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="demo_Item.Label">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+    <style name="demo_Item.Edit">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">120dip</item>
+        <item name="android:layout_marginRight">100dip</item>
+
+    </style>
+</resources>

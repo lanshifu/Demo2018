@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="public_colorPrimary">#37889F</color>
+    <color name="public_colorPrimaryDark">#37889F</color>
+    <color name="public_colorAccent">#FF4081</color>
+    <color name="public_white">#FFFFFF</color>
+    <color name="public_black">#000000</color>
+    <color name="public_color_transparent">#00000000</color>
+    <color name="public_color_4A4A4A">#4A4A4A</color>
+    <color name="public_color_443636">#443636</color>
+    <color name="public_color_53A8F4">#53A8F4</color>
+    <color name="public_color_53A7F3">#53A7F3</color>
+    <color name="public_color_E5E5E5">#E5E5E5</color>
+    <color name="public_color_F6F6F6">#F6F6F6</color>
+    <color name="public_color_FFFFFF">#FFFFFF</color>
+    <color name="public_color_959292">#959292</color>
+    <color name="public_color_CDD3D7">#CDD3D7</color>
+    <color name="public_color_B8B6B6">#B8B6B6</color>
+    <color name="public_color_E7E7E7">#E7E7E7</color>
+    <color name="public_color_D8D8D8">#D8D8D8</color>
+    <color name="public_color_06CB7E">#06CB7E</color>
+    <color name="public_color_6C6C6C">#6C6C6C</color>
+    <color name="public_color_666F80">#666F80</color>
+    <color name="public_color_0F79FD">#0F79FD</color>
+    <color name="public_color_FFB8B6B6">#FFB8B6B6</color>
+    <color name="public_color_F55122">#F55122</color>
+    <color name="public_color_F55123">#F55123</color>
+    <color name="public_color_FFF55122">#FFF55122</color>
+    <color name="public_color_FF6C6C6C">#FF6C6C6C</color>
+    <color name="public_color_FF959292">#FF959292</color>
+    <color name="public_color_FF9C15">#FF9C15</color>
+    <color name="public_color_FF4A4A4A">#FF4A4A4A</color>
+    <color name="public_color_FFF59C22">#FFF59C22</color>
+    <color name="public_color_F59C22">#F59C22</color>
+    <color name="public_color_F59C23">#F59C23</color>
+    <color name="public_color_FFFFFFFF">#FFFFFFFF</color>
+    <color name="public_color_FF53A8F4">#FF53A8F4</color>
+    <color name="public_color_E9EDEE">#E9EDEE</color>
+    <color name="public_color_FFE9EDEE">#FFE9EDEE</color>
+    <color name="public_color_FF06CB7E">#FF06CB7E</color>
+    <color name="public_background">#FFF6F6F6</color>
+    <color name="public_color_979797">#979797</color>
+    <color name="public_color_FED652">#FED652</color>
+    <color name="public_color_148CF9">#148CF9</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="color_cec29c">#CEC29C</color>
+    <color name="color_19">#191919</color>
+    <color name="color_cb">#cbcbcb</color>
+    <color name="color_de6014">#DE6014</color>
+    <color name="color_fff_99">#99ffffff</color>
+    <color name="color_2c">#2c2c2c</color>
+    <color name="color_2f332d">#2f332d</color>
+    <color name="color_92918c">#92918c</color>
+    <color name="color_383429">#383429</color>
+    <color name="color_627176">#627176</color>
+    <color name="color_ccebcc">#ccebcc</color>
+    <color name="color_aaa">#aaaaaa</color>
+    <color name="color_d1cec5">#d1cec5</color>
+    <color name="color_001c27">#001c27</color>
+    <color name="color_ec4a48">#EC4A48</color>
+    <color name="color_cec29c_dd">#DDCEC29C</color>
+    <color name="color_black_88">#88000000</color>
+    <color name="color_black_23">#23000000</color>
+    <color name="color_e3">#e3e3e3</color>
+    <color name="color_51">#515151</color>
+    <color name="color_eee">#eeeeee</color>
+    <color name="color_ccc">#cccccc</color>
+    <color name="color_aeadad">#aeadad</color>
+    <color name="color_f1">#f1f1f1</color>
+    <color name="color_80">#808080</color>
+
+
+    <!--通用一级标题的颜色-->
+    <color name="wy.text.common_h1">#212121</color>
+    <!--通用二级标题的颜色-->
+    <color name="wy.text.common_h2">#727272</color>
+    <!--通用三级标题的颜色-->
+    <color name="wy.text.common_h3">#B2B2B2</color>
+
+    <!--通用分割线细-->
+    <color name="wy.divider.narrow">#919191</color>
+    <!--通用分割线粗-->
+    <color name="wy.divider.wide">@color/color_eee</color>
+
+
+    <!--theme colors-->
+
+    <!--blue-->
+    <color name="colorBluePrimary">#2196F3</color>
+    <color name="colorBluePrimaryDark">#1976D2</color>
+    <color name="colorBlueAccent">#FF4081</color>
+    <color name="colorBluePrimaryCenter">#062748</color>
+    <!--red-->
+    <color name="colorRedPrimary">#F44336</color>
+    <color name="colorRedPrimaryDark">#D32F2F</color>
+    <color name="colorRedAccent">#FF4081</color>
+    <color name="colorRedPrimaryCenter">#560d08</color>
+    <!--brown-->
+    <color name="colorBrownPrimary">#795548</color>
+    <color name="colorBrownPrimaryDark">#5D4037</color>
+    <color name="colorBrownAccent">#FF4081</color>
+    <color name="colorBrownPrimaryCenter">#431d12</color>
+    <!--green-->
+    <color name="colorGreenPrimary">#4CAF50</color>
+    <color name="colorGreenPrimaryDark">#388E3C</color>
+    <color name="colorGreenAccent">#FF4081</color>
+    <color name="colorGreenPrimaryCenter">#104813</color>
+    <!--purple-->
+    <color name="colorPurplePrimary">#9c27b0</color>
+    <color name="colorPurplePrimaryDark">#7B1FA2</color>
+    <color name="colorPurpleAccent">#FF4081</color>
+    <color name="colorPurplePrimaryCenter">#3f0f53</color>
+    <!--teal-->
+    <color name="colorTealPrimary">#009688</color>
+    <color name="colorTealPrimaryDark">#00796b</color>
+    <color name="colorTealAccent">#FF4081</color>
+    <color name="colorTealPrimaryCenter">#0c3d37</color>
+
+    <!--pink-->
+    <color name="colorPinkPrimary">#E91E63</color>
+    <color name="colorPinkPrimaryDark">#C2185B</color>
+    <color name="colorPinkAccent">#FF4081</color>
+    <color name="colorPinkPrimaryCenter">#580928</color>
+
+    <!--deepPurple-->
+    <color name="colorDeepPurplePrimary">#673AB7</color>
+    <color name="colorDeepPurplePrimaryDark">#512DA8</color>
+    <color name="colorDeepPurpleAccent">#FF4081</color>
+    <color name="colorDeepPurplePrimaryCenter">#240c5c</color>
+
+    <!--orange-->
+    <color name="colorOrangePrimary">#FF9800</color>
+    <color name="colorOrangePrimaryDark">#F57C00</color>
+    <color name="colorOrangeAccent">#FF4081</color>
+    <color name="colorOrangePrimaryCenter">#582e03</color>
+
+    <!--indigo-->
+    <color name="colorIndigoPrimary">#3F51B5</color>
+    <color name="colorIndigoPrimaryDark">#303F9F</color>
+    <color name="colorIndigoAccent">#FF4081</color>
+    <color name="colorIndigoPrimaryCenter">#0d164d</color>
+
+    <!--cyan-->
+    <color name="colorCyanPrimary">#00BCD4</color>
+    <color name="colorCyanPrimaryDark">#0097A7</color>
+    <color name="colorCyanAccent">#FF4081</color>
+    <color name="colorCyanPrimaryCenter">#034148</color>
+
+    <!--lightGreen-->
+    <color name="colorLightGreenPrimary">#8BC34A</color>
+    <color name="colorLightGreenPrimaryDark">#689F38</color>
+    <color name="colorLightGreenAccent">#FF4081</color>
+    <color name="colorLightGreenPrimaryCenter">#37581a</color>
+
+    <!--lime-->
+    <color name="colorLimePrimary">#CDDC39</color>
+    <color name="colorLimePrimaryDark">#AFB42B</color>
+    <color name="colorLimeAccent">#FF4081</color>
+    <color name="colorLimePrimaryCenter">#52540c</color>
+
+    <!--deepOrange-->
+    <color name="colorDeepOrangePrimary">#FF5722</color>
+    <color name="colorDeepOrangePrimaryDark">#E64A19</color>
+    <color name="colorDeepOrangeAccent">#FF4081</color>
+    <color name="colorDeepOrangePrimaryCenter">#5c1e0a</color>
+
+    <!--blueGrey-->
+    <color name="colorBlueGreyPrimary">#607D8B</color>
+    <color name="colorBlueGreyPrimaryDark">#455A64</color>
+    <color name="colorBlueGreyAccent">#FF4081</color>
+    <color name="colorBlueGreyPrimaryCenter">#27373e</color>
+
+
+    <!--select theme colors-->
+    <array name="colors">
+        <item>@color/colorBluePrimary</item>
+        <item>@color/colorRedPrimary</item>
+        <item>@color/colorBrownPrimary</item>
+        <item>@color/colorGreenPrimary</item>
+        <item>@color/colorPurplePrimary</item>
+        <item>@color/colorTealPrimary</item>
+        <item>@color/colorPinkPrimary</item>
+        <item>@color/colorDeepPurplePrimary</item>
+        <item>@color/colorOrangePrimary</item>
+        <item>@color/colorIndigoPrimary</item>
+        <item>@color/colorCyanPrimary</item>
+        <item>@color/colorLightGreenPrimary</item>
+        <item>@color/colorLimePrimary</item>
+        <item>@color/colorDeepOrangePrimary</item>
+        <item>@color/colorBlueGreyPrimary</item>
+    </array>
+</resources>

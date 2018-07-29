@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:padding="@dimen/dp_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="demo模块"/>
+
+    <Button
+        android:id="@+id/btn_network"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="网络测速"/>
+
+    <Button
+        android:id="@+id/btn_device"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="设备信息"/>
+
+    <Button
+        android:id="@+id/start_server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动其他应用服务"/>
+
+    <Button
+        android:id="@+id/change_lanaguage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="切换系统语言问题"/>
+
+    <Button
+        android:id="@+id/picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="羞羞图"/>
+
+
+</LinearLayout>
